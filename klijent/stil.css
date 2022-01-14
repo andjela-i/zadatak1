@@ -1,0 +1,23 @@
+.glavniKont
+{
+    display: flex;
+}
+table,tr,th,td
+{
+    border: 2px double mediumvioletred ;
+}
+table
+{
+    border-collapse: collapse;
+}
+.Forma
+{
+  display: flex;
+  flex-direction: column;  
+  flex:0 0 200px;
+}
+.cbox
+{
+    display: flex;
+    flex-direction: row;
+}
